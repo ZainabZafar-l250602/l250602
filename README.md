@@ -1,1 +1,9 @@
-# l250602
+EcoDrone is a fully responsive, single-page website created for a fictional eco-friendly drone initiative. The website is designed to showcase cutting-edge drones that combine sustainability with AI-assisted navigation, promoting environmentally conscious technology in a modern and engaging way. It features a clean, professional layout built with HTML5 semantic elements and styled entirely using CSS3, with no JavaScript or external frameworks.
+
+The site is structured into multiple sections, including a hero section with a striking visual and call-to-action, a features section displaying the drones’ unique qualities using CSS Grid for layout and Flexbox for alignment, and a smart, interactive form that allows users to join the EcoDrone community. The form includes text inputs, checkboxes, radio buttons, a select dropdown, a textarea, and a styled submit button—all visually customized using CSS and fully accessible via keyboard navigation.
+
+Accessibility is a core focus: all form inputs have associated labels, interactive elements have visible focus states, and ARIA attributes are applied where appropriate, ensuring the site can be navigated and used by a wide range of users. The design is responsive across three breakpoints—mobile, tablet, and desktop—ensuring a seamless experience regardless of device.
+
+Interactive components include hover and focus effects on buttons, feature cards that lift and highlight when focused or hovered, and custom checkboxes and radio buttons within the form, enhancing user engagement without relying on JavaScript. The site also includes a consistent, eco-themed color palette and modern typography for readability and aesthetic appeal.
+
+Overall, EcoDrone demonstrates best practices in modern web design, combining responsiveness, interactivity, accessibility, and visual appeal in a lightweight, semantic, and maintainable HTML/CSS project. It serves as both a functional prototype for a fictional eco-drone initiative and a showcase of front-end development skills.
